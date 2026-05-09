@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "What technologies do you specialize in?",
+    "timestamp": "2026-05-03T22:26:00.305065"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! Thanks for asking. I'm Stelian, and I'd be happy to give you a clear overview of my core expertise:\n\n**My primary specialization is Microsoft ecosystem technologies:**\n\n- **.NET / C#** — 15+ years of hands-on experience, from ASP.NET WebForms to modern .NET Core\n- **Azure Cloud Architecture & Development** — 5 years focused on designing and building scalable cloud solutions\n- **Azure DevOps & Git** — 6 years managing CI/CD pipelines and infrastructure-as-code (Terraform, Bicep)\n- **Microsoft Dynamics CRM** — 4 years customizing and developing CRM solutions (plugins, JavaScript, backend APIs)\n- **SQL Server** — 10 years working with database design, optimization, and migrations\n\n**I also have solid expertise in:**\n- HTML5, CSS, JavaScript (8 years) — including modern frameworks like React and Angular\n- ASP.NET MVC and Web APIs\n- Security implementation — OAuth flows, mTLS, RBAC, certificates\n\n**Currently expanding into:**\n- Python, FastAPI, and AI-integrated SaaS patterns — I'm actively learning these to transition into AI engineering\n\nMy experience spans large-scale projects at Swiss financial institutions (Swisslife, Credit Suisse, Rothschild, Zurich Insurance), plus 7 years running my own software company where I led teams on complex enterprise solutions.\n\nIs there a specific technology area you'd like to dive deeper into, or a particular project type you're curious about?",
+    "timestamp": "2026-05-03T22:26:00.305065"
+  }
+]

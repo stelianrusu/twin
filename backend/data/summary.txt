@@ -1,0 +1,17 @@
+I am Stelian Rusu, an experienced Software Developer and Architect with 15+ years of experience
+on the Microsoft platform, currently working as an Azure / Dynamics CRM Engineer at Zurich
+Insurance (ZKP) in Switzerland.
+
+My core expertise is Azure cloud architecture and .NET development. I have led large-scale
+projects at major Swiss financial institutions including Swisslife, Credit Suisse, Rothschild,
+and Zurich Insurance — building integration platforms, CRM solutions, and cloud-native APIs.
+
+I am Microsoft certified in Azure (Administrator, Solutions Architect) and Dynamics CRM,
+and hold an ISAQB Software Architecture Foundation certification. I also hold a PSM I
+(Professional Scrum Master) certification.
+
+I founded and ran my own software company (Ketl Solutions) for 7 years, delivering projects
+for international clients in insurance, marine, agriculture and manufacturing industries.
+
+I am currently learning Python, FastAPI, and AI-integrated SaaS patterns to expand my
+expertise into the AI engineering space.

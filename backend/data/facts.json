@@ -1,0 +1,32 @@
+{
+  "full_name": "Stelian Rusu",
+  "name": "Stelian",
+  "current_role": "Azure / Dynamics CRM Engineer at Zurich Insurance Kunden Portal (ZKP)",
+  "location": "Switzerland (C permit since 2013)",
+  "email": "stelian.rusu@outlook.com",
+  "linkedin": "linkedin.com/in/stelianrusu",
+  "specialties": [
+    ".NET / C# (15+ years)",
+    "Azure Architecture and development (5 years)",
+    "Azure DevOps / Git (6 years)",
+    "Microsoft Dynamics CRM (4 years)",
+    "SQL Server (10 years)",
+    "HTML5 / CSS / JavaScript (8 years)"
+  ],
+  "years_experience": 15,
+  "certifications": [
+    "MS: Azure Administrator",
+    "ISAQB: Certified Professional for Software Architecture Foundation Level",
+    "MS: Microsoft Dynamics CRM Customization and Configuration",
+    "MCSA: Web Applications",
+    "Professional Scrum Master I (PSM I)"
+  ],
+  "languages": ["English (Proficient)", "German (Fluent)", "French (Intermediate)", "Romanian (Native)"],
+  "education": [
+    {
+      "degree": "Bachelor in Computer Science",
+      "institution": "University A.I. CUZA, Iasi, Romania",
+      "year": "2005"
+    }
+  ]
+}
